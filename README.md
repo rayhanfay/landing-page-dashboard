@@ -1,22 +1,20 @@
-# Landing Page Dashboard 🌐
+# Landing Page Dashboard
 
 This project is a final assignment for the Web Programming Design course, built using Laravel. It features a website front page with a login system and a dashboard that includes CRUD operations for managing data. The project demonstrates fundamental concepts of web development, focusing on secure authentication and database management.
 
-## Features 📝
-
+## Features
 - **Landing Page**: Attractive and user-friendly front page for the website.
 - **Authentication System**: Secure login and registration for users.
 - **Dashboard**: A management panel that allows CRUD (Create, Read, Update, Delete) operations on data.
 - **Responsive Design**: Optimized for various screen sizes and devices.
 
-## Technologies Used 💻
-
+## Technologies Used 
 - **Laravel**: Backend framework for building web applications with PHP.
 - **MySQL**: Database management for storing user and dashboard data.
 - **HTML/CSS**: For structuring and styling the front page and dashboard.
 - **JavaScript**: For enhancing interactivity on the landing page and dashboard.
 
-## Installation 📥
+## Installation 
 
 1. Clone the repository to your local machine:
    ```bash
